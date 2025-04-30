@@ -6,7 +6,7 @@
 [![JSR: @hugoalh/is-empty](https://img.shields.io/jsr/v/@hugoalh/is-empty?label=@hugoalh/is-empty&labelColor=F7DF1E&logo=jsr&logoColor=000000&style=flat "JSR: @hugoalh/is-empty")](https://jsr.io/@hugoalh/is-empty)
 [![NPM: @hugoalh/is-empty](https://img.shields.io/npm/v/@hugoalh/is-empty?label=@hugoalh/is-empty&labelColor=CB3837&logo=npm&logoColor=ffffff&style=flat "NPM: @hugoalh/is-empty")](https://www.npmjs.com/package/@hugoalh/is-empty)
 
-An ES (JavaScript & TypeScript) module to determine whether the item is empty.
+An ECMAScript (JavaScript & TypeScript) module to determine whether the item is empty.
 
 ## 🔰 Begin
 
