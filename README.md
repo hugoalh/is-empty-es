@@ -14,7 +14,7 @@ An ECMAScript (JavaScript & TypeScript) module to determine whether the item is 
 
 | **Targets** | **Remote** | **JSR** | **NPM** |
 |:--|:-:|:-:|:-:|
-| **[Bun](https://bun.sh/)** >= v1.1.0 | ❓ | ✔️ | ✔️ |
+| **[Bun](https://bun.sh/)** >= v1.1.0 | ❌ | ✔️ | ✔️ |
 | **[Deno](https://deno.land/)** >= v2.1.0 | ✔️ | ✔️ | ✔️ |
 | **[NodeJS](https://nodejs.org/)** >= v20.9.0 | ❌ | ✔️ | ✔️ |
 
