@@ -5,22 +5,22 @@ import { isObjectPlain } from "https://raw.githubusercontent.com/hugoalh/is-obje
  * This only reports back what the JavaScript engine is seeing; In particular, the return value may not match the original source code if a transpilation tool was used.
  * @param {unknown} item Item that need to determine.
  * @returns {boolean} Determine result.
- * @example 1
+ * @example
  * ```ts
  * isEmpty(true);
  * //=> false
  * ```
- * @example 2
+ * @example
  * ```ts
  * isEmpty([{}]);
  * //=> false
  * ```
- * @example 3
+ * @example
  * ```ts
  * isEmpty([]);
  * //=> true
  * ```
- * @example 4
+ * @example
  * ```ts
  * isEmpty({});
  * //=> true
