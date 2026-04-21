@@ -2,9 +2,10 @@
 
 [**⚖️** MIT](./LICENSE.md)
 
-[![GitHub: hugoalh/is-empty-es](https://img.shields.io/github/v/release/hugoalh/is-empty-es?label=hugoalh/is-empty-es&labelColor=181717&logo=github&logoColor=ffffff&sort=semver&style=flat "GitHub: hugoalh/is-empty-es")](https://github.com/hugoalh/is-empty-es)
-[![JSR: @hugoalh/is-empty](https://img.shields.io/jsr/v/@hugoalh/is-empty?label=@hugoalh/is-empty&labelColor=F7DF1E&logo=jsr&logoColor=000000&style=flat "JSR: @hugoalh/is-empty")](https://jsr.io/@hugoalh/is-empty)
-[![NPM: @hugoalh/is-empty](https://img.shields.io/npm/v/@hugoalh/is-empty?label=@hugoalh/is-empty&labelColor=CB3837&logo=npm&logoColor=ffffff&style=flat "NPM: @hugoalh/is-empty")](https://www.npmjs.com/package/@hugoalh/is-empty)
+🔗
+[GitHub](https://github.com/hugoalh/is-empty-es)
+[JSR](https://jsr.io/@hugoalh/is-empty)
+[NPM](https://www.npmjs.com/package/@hugoalh/is-empty)
 
 An ECMAScript module to determine whether the item is empty.
 
