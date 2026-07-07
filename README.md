@@ -3,7 +3,8 @@
 [**⚖️** MIT](./LICENSE.md)
 
 🔗
-[GitHub](https://github.com/hugoalh/is-empty-es)
+[DistBoard @hugoalh](https://hugoalh.github.io/distboard/is_empty_ecmascript)
+● [GitHub](https://github.com/hugoalh/is-empty-es)
 ● [JSR](https://jsr.io/@hugoalh/is-empty)
 ● [NPM](https://www.npmjs.com/package/@hugoalh/is-empty)
 
